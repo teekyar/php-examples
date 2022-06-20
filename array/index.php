@@ -1,5 +1,5 @@
 <?php
-$array=['0987654321'=>['firstname'=>'Ali','lastname'=>'Mohammadi','age'=>31,'gender'=>'Man'],'0987654322'=>['firstname'=>'Rea','lastname'=>'Mohammadi','age'=>32,'gender'=>'Man'],'0987654323'=>['firstname'=>'Behruz','lastname'=>'Mohammadi','age'=>33,'gender'=>'Woman']];
+$array=['0987654321'=>['firstname'=>'Ali','lastname'=>'Mohammadi','age'=>31,'gender'=>'Man'],'0987654322'=>['firstname'=>'Rea','lastname'=>'Mohammadi','age'=>32,'gender'=>'Man'],'0987654323'=>['firstname'=>'Zahra','lastname'=>'Mohammadi','age'=>33,'gender'=>'Woman']];
 ?>
 <style>
 table,td,th,tr{

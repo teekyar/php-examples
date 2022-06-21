@@ -1,3 +1,3 @@
 # Information
 <img src="news-demo.PNG"></img>
-https://teekyar.ir/blog/php-news-project/
+https://teekyar.ir/blog/php-news-site-project/
